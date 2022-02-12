@@ -13,8 +13,8 @@ int main()
 	{
 	        printf("%d is greater than %d",a,b);
 	}
-	      else (a=b)
+	      else (a=b);
 	      {		      
-		      printf("Both the Numbers are equal")
+		      printf("Both the Numbers are equal");
 	      }      
 }
